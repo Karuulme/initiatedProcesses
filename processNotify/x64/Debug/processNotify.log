@@ -1,0 +1,23 @@
+﻿  Building 'processNotify' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\processNotify.inf
+  Stamping [Version] section with DriverVer=06/21/2023,10.21.58.244
+C:\Users\karuulme\source\repos\processNotify\processNotify\processNotify.inf(28-28): warning 2083: Section [standard.ntamd64] not referenced or used.
+  main.c
+  processNotify.vcxproj -> C:\Users\karuulme\source\repos\processNotify\x64\Debug\processNotify.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\karuulme\source\repos\processNotify\x64\Debug\processNotify.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\karuulme\source\repos\processNotify\x64\Debug\processNotify\processnotify.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\karuulme\source\repos\processNotify\x64\Debug\processNotify\processnotify.cat
+  
