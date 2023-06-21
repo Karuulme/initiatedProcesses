@@ -1,6 +1,6 @@
 ﻿  Building 'processNotify' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
   Stamping x64\Debug\processNotify.inf
-  Stamping [Version] section with DriverVer=06/21/2023,10.21.58.244
+  Stamping [Version] section with DriverVer=06/21/2023,10.49.21.345
 C:\Users\karuulme\source\repos\processNotify\processNotify\processNotify.inf(28-28): warning 2083: Section [standard.ntamd64] not referenced or used.
   main.c
   processNotify.vcxproj -> C:\Users\karuulme\source\repos\processNotify\x64\Debug\processNotify.sys
