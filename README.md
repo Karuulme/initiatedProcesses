@@ -1,1 +1,1 @@
-add /integritycheck in Command Line
+add `/integritycheck` in Command Line
